@@ -1,0 +1,19 @@
+{
+    "users": 
+    [
+        {
+        "id": 1,
+        "firstName": "Terry",
+        "lastName": "Medhurst",
+        "address": {
+            "address": "1745 N 84th St",
+            "city": "Washington",
+            "postalCode": "20020",
+            "state": "DC"
+        },
+        "hospitalName": "Washington Community Hospital",
+        "serviceDate": "02-24/2023",
+        "billAmount": "105.89" 
+        }
+    ]
+}
